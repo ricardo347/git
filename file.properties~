@@ -1,2 +1,6 @@
 teste primeira linha
-alteração no branch
+<<<<<<< HEAD
+alteração no branch2
+=======
+inseridonamaster
+>>>>>>> master
